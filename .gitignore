@@ -1,0 +1,5 @@
+# Original 56 MB master video — the site uses the compressed copies in assets/
+logo video.mp4
+
+# Local tooling
+.claude/
